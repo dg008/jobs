@@ -6,7 +6,7 @@ Style Atlas is hiring. Are you the perfect fit?
 
 ## Roles
 
-* [ ] Javascript developer
+* [x] Javascript developer
   * Level: mid
   * Where: Sydney
   * When: now!
