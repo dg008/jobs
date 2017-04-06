@@ -7,7 +7,11 @@ Style Atlas is hiring. Are you the perfect fit?
 ## Roles
 
 * [ ] Javascript developer
-  * Level: mid
+  * Level: junior
+  * Where: Sydney
+  * When: now!
+* [x] Javascript developer
+  * Level: mid-senior
   * Where: Sydney
   * When: now!
 * [x] Product Manager

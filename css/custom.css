@@ -139,3 +139,30 @@ li {
 .alert-block p + p {
   margin-top: 5px;
 }
+
+.job-opening {
+  border: 1px solid #ccc;
+  border-color: rgba(51, 195, 240, 0.3);
+}
+
+.job-opening ul {
+  margin: 0;
+}
+
+.job-opening header {
+  background-color: rgba(51, 195, 240, 0.34);
+}
+
+.job-opening header,
+.job-opening article {
+  padding: 10px;
+}
+
+.job-opening a {
+  color: #333;
+  text-decoration: none;
+}
+
+.row {
+  margin-bottom: 20px;
+}
