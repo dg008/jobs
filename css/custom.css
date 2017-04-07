@@ -166,3 +166,44 @@ li {
 .row {
   margin-bottom: 20px;
 }
+
+.center {
+  text-align: center;
+}
+
+.position header {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.position-developer header {
+  background-image: url(/assets/developer.png);
+}
+
+.position-product-manager header {
+  background-image: url(/assets/product-manager.png);
+}
+
+.position header p {
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 0;
+  padding: 3px;
+  background: rgba(50, 50, 50, .7);
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+  background: rgba(51, 195, 240, 0.1);
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  margin: 10px;
+}
