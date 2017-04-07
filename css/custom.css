@@ -177,11 +177,11 @@ li {
 }
 
 .position-developer header {
-  background-image: url(/assets/developer.png);
+  background-image: url(/jobs/assets/developer.png);
 }
 
 .position-product-manager header {
-  background-image: url(/assets/product-manager.png);
+  background-image: url(/jobs/assets/product-manager.png);
 }
 
 .position header p {
