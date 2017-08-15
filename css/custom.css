@@ -207,3 +207,8 @@ footer p {
 footer a {
   margin: 10px;
 }
+
+.filled-positions a {
+  pointer-events: none;
+  display: inline-block;
+}
