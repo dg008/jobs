@@ -21,8 +21,9 @@ module.exports = {
 
 // 1. What does validCandidate expect and return?
   // The function expects either an array or a string, using the following rules
-  // If the string ends with the word 'script' return true
+  // If the string ends with the word 'script' return true (Otherwise return false)
   // If at least one element in the array ends with the word 'script' return true
+    // Otherwise return false
   // For eg. if array is ['Javascript', 'HTML'] - then validCandidate will return true
 // 2. Tell us the reason(s) why we've created a variable to store the regex?
   // So we don't have to repeat the regex since it gets used twice (DRY principle)
