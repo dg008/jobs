@@ -32,7 +32,7 @@ module.exports = {
   // compared to 'string' so no type conversion should occur
 // 4. Rewrite filter so it doesn't use =>. What does => do? Was it necessary in this instance?
   // See updated code block above.
-  // The => fat arrow function is a short-hand for an inline anonymous function.
+  // The => fat arrow function is a short-hand for an inline anonymous function (it also removes the need to include 'return')
     // It is not necessary but makes the code more concise and readable.
 // 5. Update validCandidate to accept candidate knowing "ES2015", "ES6" or "ES7". Basically ES whatever. By the way, what does "ES" stand for?
   // See updated function above
